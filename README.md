@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Hugo Ignacio Bazán Valadez. 🦆
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning HTML, JS, CSS and NODE. 🦖
+- 📫 How to reach me ...
+- hugobazan1499@gmail.com
