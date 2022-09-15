@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hugo Ignacio Bazan Valadez. 🦆
+- 👋 Hi, I’m Hugo Ignacio Bazán Valadez. 🦆
 - 🌮 I'm from Mexico City.
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning HTML, JS, CSS, NODE, VUEJS and NUXTJS. 🦖
