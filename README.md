@@ -21,12 +21,6 @@
       <a href="https://www.linkedin.com/in/hugo-i-baz%C3%A1n-22611b262/">LinkedIn</a>
     </h4>
   </li>
-  
-  <li>
-    <h4>
-      <a href="hugobzn.netlify.app">My Portfolio 🐉</a>
-    </h4>
-  </li>
 </ul>
 
 
