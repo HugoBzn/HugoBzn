@@ -12,7 +12,7 @@
   </p>
 <h3>📫 How to reach me...</h3>
 <p align="left">
-<a href="mailto:hugobazan1499@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" width="40" height="40"/></a> <a href="https://www.linkedin.com/in/hugo-bazán-22611b262/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="40" height="40"/></a> <a href="https://hugobzn.netlify.app/es"><img src="https://github.com/HugoBzn/HugoBzn/blob/main/favicon.ico" alt="mypage" width="40" height="40"/></a>
+<a href="mailto:hugobazan1499@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" width="40" height="40"/></a> <a href="https://www.linkedin.com/in/hugo-bazán-22611b262/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="40" height="40"/></a> <a href="https://hugobzn.netlify.app/es"><img src="https://github.com/HugoBzn/HugoBzn/blob/main/iawolf.png" alt="mypage" width="40" height="40"/></a>
 </p>
 
 
