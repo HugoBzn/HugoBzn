@@ -1,6 +1,6 @@
 <h1 align="center">Hi world! 🐳</h1>
 <h3 align="center">Soy Hugo Bazán 🦆</h3>
-<p align="center">Desarrollador web de la Ciudad de México 🌮</p>
+<p align="center">Desarrollador Web 💻</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/HugoBzn/HugoBzn/main/cbpunk.gif" width="100%" alt="cyberpunk gif" />
@@ -10,7 +10,6 @@
 
 ### 🚀 Sobre mí
 
-- 🌮 De la Ciudad de México
 - 👀 Me apasiona el desarrollo web
 - 🌱 Stack principal: **Vue / Nuxt / TypeScript** + **C# / .NET / SQL Server**
 
