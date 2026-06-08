@@ -53,6 +53,13 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 </p>
 
+**IA**
+
+<p align="left">
+  <a href="https://claude.com/claude-code" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/claude/D97757" alt="claude" width="40" height="40"/></a>&nbsp;
+  <a href="https://github.com/features/copilot" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/githubcopilot/ffffff" alt="github copilot" width="40" height="40"/></a>
+</p>
+
 ---
 
 <h3 align="center">📫 Contáctame</h3>
