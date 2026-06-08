@@ -3,7 +3,7 @@
 <p align="center">Desarrollador web de la Ciudad de México 🌮</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HugoBzn/HugoBzn/main/cbpunk.gif" width="480" alt="cyberpunk gif" />
+  <img src="https://raw.githubusercontent.com/HugoBzn/HugoBzn/main/cbpunk.gif" width="100%" alt="cyberpunk gif" />
 </p>
 
 ---
@@ -51,18 +51,6 @@
   <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visual studio" width="40" height="40"/></a>&nbsp;
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>&nbsp;
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-</p>
-
----
-
-### 🐍 Mis contribuciones
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HugoBzn/HugoBzn/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HugoBzn/HugoBzn/output/github-contribution-grid-snake.svg" />
-    <img alt="snake eating my github contributions" src="https://raw.githubusercontent.com/HugoBzn/HugoBzn/output/github-contribution-grid-snake.svg" />
-  </picture>
 </p>
 
 ---
