@@ -1,6 +1,6 @@
 <h1 align="center">Hi world! 🐳</h1>
-<h3 align="center">Soy Hugo Bazán 🦆</h3>
-<p align="center">Desarrollador Web 💻</p>
+<h3 align="center">I'm Hugo Bazán 🦆</h3>
+<p align="center">Web Developer 💻</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/HugoBzn/HugoBzn/main/cbpunk.gif" width="100%" alt="cyberpunk gif" />
@@ -8,14 +8,16 @@
 
 ---
 
-### 🚀 Sobre mí
+### 🚀 About me
 
-- 👀 Me apasiona el desarrollo web
-- 🌱 Stack principal: **Vue / Nuxt / TypeScript** + **C# / .NET / SQL Server**
+- 🧩 Full-stack at heart — from the front-end pixel to the database query
+- ⚙️ My turf: **Vue / Nuxt / TypeScript** + **C# / .NET / SQL Server**
+- ✨ Obsessed with the details: polished UI, solid performance and clean code
+- 🤖 AI is my copilot, not my autopilot — I go faster without letting go of the wheel
 
 ---
 
-### 🧩 Tecnologías
+### 🧩 Tech Stack
 
 **Frontend**
 
@@ -52,7 +54,7 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 </p>
 
-**IA**
+**AI**
 
 <p align="left">
   <a href="https://claude.com/claude-code" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/claude/D97757" alt="claude" width="40" height="40"/></a>&nbsp;
@@ -61,7 +63,7 @@
 
 ---
 
-<h3 align="center">📫 Contáctame</h3>
+<h3 align="center">📫 Get in touch</h3>
 
 <p align="center">
   <a href="mailto:hugobazan1499@gmail.com"><img src="https://img.shields.io/badge/Gmail-hugobazan1499@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
